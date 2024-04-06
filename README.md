@@ -1,7 +1,7 @@
 A HTTP bot in Java with basic commands and ability's
 
 Connection to Control Panel
-
+https://game.avtrx.io/?cid=melbetcom&productId=nft-aviatrix&sessionToken=c6da4f52dc0747b3b487bef38c5b1490&lang=fr&lobbyUrl=https://melbet.com/slots?locale=fr_FR
 Adjustable Timing
 Commands
 
